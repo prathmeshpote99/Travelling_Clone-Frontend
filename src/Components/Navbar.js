@@ -159,7 +159,7 @@ const Navbar = () => {
                 <li>
                   <button className="book_btn book2">
                     <Link className="book2" to="/book1">
-                      Book Now
+                      Book Tickects Now
                     </Link>
                   </button>
                 </li>
